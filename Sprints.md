@@ -22,10 +22,11 @@
 
 
 ### Thomas
-    .Documentation matériel HTC VIVE
-    .Documentation pour partie programme commandes vers raspberry
-    .Mise en place et vérification du HTC VIVE
-    .Commencer le programme pour faire un lien entre les mannettes de l'HTC VIVE et pc (avencement par rapport au sprint 2)
+
+    Documentation matériel HTC VIVE
+    Documentation pour partie programme commandes vers raspberry
+    Mise en place et vérification du HTC VIVE
+    Commencer le programme pour faire un lien entre les mannettes de l'HTC VIVE et pc (avencement par rapport au sprint 2)
 
 
 <a name="sprint2"></a>
