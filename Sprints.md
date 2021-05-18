@@ -18,13 +18,14 @@
     Bonus : envoyer le flux sur un live youtube
 
 ### Maxence
-    
-    Prise en main du materiel (drone)
-    Harmoniser électriquement le drone
-    Pourvoir faire tourner un programme pour faire avancer/reculer/stoper le drone 
+
 
 
 ### Thomas
+    .Documentation matériel HTC VIVE
+    .Documentation pour partie programme commandes vers raspberry
+    .Mise en place et vérification du HTC VIVE
+    .Commencer le programme pour faire un lien entre les mannettes de l'HTC VIVE et pc (avencement par rapport au sprint 2)
 
 
 <a name="sprint2"></a>
@@ -39,7 +40,9 @@
 
 
 ### Thomas
-
+    .Réaliser un lien entre pc et manettes du HTC VIVE
+    .Lien manette et raspberry pour controler le drone 
+    .Commencer les améliorations du programme : controler le drone avec gachettes et pavés tactiles
 
 <a name="sprint3"></a>
 ## Objectif sprint 3
@@ -53,5 +56,5 @@
 
 
 ### Thomas
-
+    Finitions du programme d'amélioration 
 
