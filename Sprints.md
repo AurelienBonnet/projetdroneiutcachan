@@ -19,7 +19,9 @@
 
 ### Maxence
 
-
+    Prise en main du materiel (drone)
+    Harmoniser électriquement le drone
+    Pourvoir faire tourner un programme pour faire avancer/reculer/stoper le drone 
 
 ### Thomas
 
