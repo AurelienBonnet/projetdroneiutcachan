@@ -18,7 +18,10 @@
     Bonus : envoyer le flux sur un live youtube
 
 ### Maxence
-
+    
+    Prise en main du materiel (drone)
+    harmoniser électriquement le drone
+    pourvoir faire tourner un programme pour faire avancer/reculer/stoper le drone 
 
 
 ### Thomas
