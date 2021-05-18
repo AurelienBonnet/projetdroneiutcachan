@@ -43,9 +43,10 @@
 
 
 ### Thomas
-    .Réaliser un lien entre pc et manettes du HTC VIVE
-    .Lien manette et raspberry pour controler le drone 
-    .Commencer les améliorations du programme : controler le drone avec gachettes et pavés tactiles
+
+    Réaliser un lien entre pc et manettes du HTC VIVE
+    Lien manette et raspberry pour controler le drone 
+    Commencer les améliorations du programme : controler le drone avec gachettes et pavés tactiles
 
 <a name="sprint3"></a>
 ## Objectif sprint 3
