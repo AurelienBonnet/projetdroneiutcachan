@@ -39,13 +39,18 @@
 
 
 ### Maxence
-
+    
+    ameliorer le projet en utilisant le bluetooth comme communication au lieux du i2c
+    Etudier le systeme de communication bluetooth
+    envoyer une trame de commande via le bluetooth 
+    
 
 
 ### Thomas
 
     Réaliser un lien entre pc et manettes du HTC VIVE
-    Améliorations du programme : controler le drone avec gachettes et pavés tactiles (avoir un retour de valeurs analogiques)
+    Lien manette et raspberry pour controler le drone 
+    Commencer les améliorations du programme : controler le drone avec gachettes et pavés tactiles
 
 <a name="sprint3"></a>
 ## Objectif sprint 3
@@ -59,6 +64,5 @@
 
 
 ### Thomas
-    Finitions du programme d'amélioration si besoin
-    Etablir le lien entre les manettes HTC VIVE et le raspberry pour diriger le drone
+    Finitions du programme d'amélioration 
 
