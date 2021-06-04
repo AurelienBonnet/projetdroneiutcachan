@@ -36,15 +36,15 @@
 
 ### Aurélien
 
-
+    Créer un environnement Vr sur UNITY
+    Recherche de baisse de latence pour un live stream en wifi
+    Connexion de stream à l'environnement Vr
 
 ### Maxence
     
-    ameliorer le projet en utilisant le bluetooth comme communication au lieux du i2c
+    Ameliorer le projet en utilisant le bluetooth comme communication au lieux du i2c
     Etudier le systeme de communication bluetooth
-    envoyer une trame de commande via le bluetooth 
-    
-
+    Envoyer une trame de commande via le bluetooth 
 
 ### Thomas
 
