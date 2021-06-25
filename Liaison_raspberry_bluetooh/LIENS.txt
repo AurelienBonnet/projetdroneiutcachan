@@ -1,0 +1,3 @@
+Github : https://github.com/AurelienBonnet/projetdroneiutcachan
+
+Carte controle T'REX : https://www.generationrobots.com/fr/401824-controleur-t-rex.html

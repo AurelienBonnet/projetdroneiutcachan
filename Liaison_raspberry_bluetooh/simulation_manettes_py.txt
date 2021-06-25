@@ -1,0 +1,13 @@
+#----- A simple TCP client program in Python using send() function -----
+
+import socket
+clientSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM);
+clientSocket.connect(("10.10.10.104",54000));
+i=0
+while True:
+    data = '{:04d}'.format(i); 
+    print(data)
+    clientSocket.send(data.encode());
+    i=i+1
+    if(i==555):
+        i=0

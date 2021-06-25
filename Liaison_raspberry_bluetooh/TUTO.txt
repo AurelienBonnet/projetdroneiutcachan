@@ -1,0 +1,42 @@
+--RASPBERRY---
+-branchez la raspberry
+	(alimentation, cable hdmi,clavier, souris) pour avoir une interface sur ecran 
+-connectez votre raspberry a un reseau wifi ou ethernet et recuperer cette ip 
+	-recuperer l'ip --> ouvrir terminal puis mettre le commande "sudo ipconfig"
+-associez un module bluetooth a votre raspberry 
+	juste associer (pas connecter)
+-ouvrir le terminal puis executer la commande "sudo rfcomm connect rfcomm0 **:**:**:**:**:**" (remplacer les ** par l'adresse mac de votre module bluetooth)
+
+la connection wifi est etablie et l'association avec le module bluetooth aussi
+
+ouvrir le code python 12345.py (receptionne les information envoyer par les mannettes)
+
+puis lancez le
+
+------------------------------------------------------------------------------------------------------------------------------------------------  
+---Simulation des mannetes---
+un code a ete cree pour simuler l'envoy des sockets des mannettes
+
+-Sur un ordinateur sur le meme reseau  que la raspberry 
+	-ouvrir le logiciel "anaconda" puis  lancer "jupiter" 
+	-arriver sur la page internet de jupiter cliquez sur "new" --> "python 3"
+	-puis collez le code dans le fichier "simulation des manettes"
+	-modifier le code au niveau de l'ip et mettre celui de la raspberry 
+	-lancez le 
+
+(le code 12345.py doit etre lancer en premier puis apres celui de la simulation des mannettes)
+
+------------------------------------------------------------------------------------------------------------------------------------------------ 
+---REALTERM---
+il est possible de connecter le module bluetooth sur un mudole usb "LPC ISP(mini) et de le brancher sur un autre ordinateur pour visualiser les trames 
+installer ou ouvrir le logiciel "realterm"
+-onglet "display"
+	display as --> hex 
+
+-onglet "port"
+	baud --> 9600 
+	port --> (port com ou le bluetooth est brancher)
+	le bouton "open" doit etre enfoncer
+	puis cliquez sur "Charge"
+
+Si des trames arrivent sur le module bluetooth alors elles s'afficherons dans le terminal de RealTerm
